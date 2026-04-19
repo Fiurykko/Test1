@@ -1,0 +1,37 @@
+[
+  { "en": "house", "it": "casa", "example": "My house is small but cozy.", "level": "A1", "week": 1 },
+  { "en": "to eat", "it": "mangiare", "example": "I eat breakfast at 8.", "level": "A1", "week": 1 },
+  { "en": "water", "it": "acqua", "example": "Can I have a glass of water?", "level": "A1", "week": 1 },
+  { "en": "friend", "it": "amico, amica", "example": "She is my best friend.", "level": "A1", "week": 1 },
+  { "en": "to read", "it": "leggere", "example": "I read a book every night.", "level": "A1", "week": 1 },
+  { "en": "to buy", "it": "comprare", "example": "I want to buy new shoes.", "level": "A1", "week": 1 },
+  { "en": "morning", "it": "mattina", "example": "Good morning!", "level": "A1", "week": 1 },
+  { "en": "to work", "it": "lavorare", "example": "I work in an office.", "level": "A1", "week": 1 },
+
+  { "en": "neighbour", "it": "vicino di casa", "example": "My neighbour is very kind.", "level": "A2", "week": 1 },
+  { "en": "to borrow", "it": "prendere in prestito", "example": "Can I borrow your pen?", "level": "A2", "week": 1 },
+  { "en": "to lend", "it": "prestare", "example": "She lent me her umbrella.", "level": "A2", "week": 1 },
+  { "en": "tired", "it": "stanco", "example": "I am tired after work.", "level": "A2", "week": 1 },
+  { "en": "weather", "it": "tempo (meteo)", "example": "The weather is nice today.", "level": "A2", "week": 1 },
+  { "en": "to choose", "it": "scegliere", "example": "Choose the answer you prefer.", "level": "A2", "week": 1 },
+  { "en": "expensive", "it": "costoso", "example": "This watch is too expensive.", "level": "A2", "week": 1 },
+  { "en": "cheap", "it": "economico", "example": "I bought a cheap ticket.", "level": "A2", "week": 1 },
+
+  { "en": "to achieve", "it": "raggiungere, ottenere", "example": "She achieved her goal.", "level": "B1", "week": 1 },
+  { "en": "to improve", "it": "migliorare", "example": "I want to improve my English.", "level": "B1", "week": 1 },
+  { "en": "to suggest", "it": "suggerire", "example": "He suggested a new restaurant.", "level": "B1", "week": 1 },
+  { "en": "issue", "it": "problema, questione", "example": "We need to discuss this issue.", "level": "B1", "week": 1 },
+  { "en": "to afford", "it": "permettersi", "example": "I can't afford a new car.", "level": "B1", "week": 1 },
+  { "en": "advice", "it": "consiglio", "example": "Can you give me some advice?", "level": "B1", "week": 1 },
+  { "en": "to recommend", "it": "raccomandare", "example": "I recommend this book.", "level": "B1", "week": 1 },
+  { "en": "to deal with", "it": "occuparsi di, gestire", "example": "She deals with customer complaints.", "level": "B1", "week": 1 },
+
+  { "en": "to undertake", "it": "intraprendere", "example": "They undertook a difficult project.", "level": "B2", "week": 1 },
+  { "en": "thorough", "it": "approfondito, accurato", "example": "We need a thorough analysis.", "level": "B2", "week": 1 },
+  { "en": "to acknowledge", "it": "riconoscere, ammettere", "example": "He acknowledged his mistake.", "level": "B2", "week": 1 },
+  { "en": "outcome", "it": "risultato, esito", "example": "The outcome was unexpected.", "level": "B2", "week": 1 },
+  { "en": "to overcome", "it": "superare", "example": "She overcame her fear of flying.", "level": "B2", "week": 1 },
+  { "en": "reluctant", "it": "riluttante", "example": "He was reluctant to accept the offer.", "level": "B2", "week": 1 },
+  { "en": "to thrive", "it": "prosperare, fiorire", "example": "Plants thrive in this climate.", "level": "B2", "week": 1 },
+  { "en": "compelling", "it": "convincente, avvincente", "example": "She made a compelling argument.", "level": "B2", "week": 1 }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "to-be",
+    "title": "Il verbo 'to be' (essere)",
+    "level": "A1",
+    "content_html": "<p>Il verbo <strong>to be</strong> significa 'essere' (e a volte 'avere', es. età). È irregolare.</p><h3>Forma affermativa</h3><ul><li>I <strong>am</strong> (I'm)</li><li>You <strong>are</strong> (you're)</li><li>He / She / It <strong>is</strong> (he's, she's, it's)</li><li>We / You / They <strong>are</strong> (we're, they're)</li></ul><h3>Forma negativa</h3><p>Si aggiunge <strong>not</strong> dopo il verbo: I am not, he is not (isn't), they are not (aren't).</p><h3>Forma interrogativa</h3><p>Si inverte soggetto e verbo: <em>Are you Italian?</em> – <em>Is she at home?</em></p>",
+    "examples": [
+      "I am a student.",
+      "She is twenty years old.",
+      "They aren't tired.",
+      "Are you ready?"
+    ]
+  },
+  {
+    "id": "present-simple",
+    "title": "Present Simple",
+    "level": "A1",
+    "content_html": "<p>Si usa per <strong>abitudini, routine, fatti permanenti</strong> e verità generali.</p><h3>Forma affermativa</h3><p>Verbo alla forma base, ma con <strong>he/she/it</strong> si aggiunge <strong>-s</strong> (o -es / -ies).</p><ul><li>I work / He work<strong>s</strong></li><li>I go / She go<strong>es</strong></li><li>I study / He stud<strong>ies</strong></li></ul><h3>Negativa e interrogativa</h3><p>Si usa l'ausiliare <strong>do / does</strong>:</p><ul><li>I <strong>don't</strong> like coffee.</li><li>She <strong>doesn't</strong> live here.</li><li><strong>Do</strong> you speak English?</li><li><strong>Does</strong> he work on Sundays?</li></ul><p><em>Avverbi tipici:</em> always, usually, often, sometimes, never, every day.</p>",
+    "examples": [
+      "I drink coffee every morning.",
+      "She doesn't watch TV.",
+      "Do you live in Milan?",
+      "The sun rises in the east."
+    ]
+  },
+  {
+    "id": "present-continuous",
+    "title": "Present Continuous",
+    "level": "A2",
+    "content_html": "<p>Si usa per azioni che <strong>stanno accadendo ora</strong> o in un periodo limitato del presente, e per piani futuri già fissati.</p><h3>Struttura</h3><p>Soggetto + <strong>to be</strong> (am/is/are) + verbo<strong>-ing</strong></p><ul><li>I <strong>am working</strong>.</li><li>She <strong>is studying</strong>.</li><li>They <strong>are not playing</strong>.</li><li><strong>Are</strong> you <strong>listening</strong>?</li></ul><h3>Quando NON si usa</h3><p>Verbi di stato (like, want, know, believe, understand) restano al present simple: <em>I know him</em>, non 'I am knowing'.</p><p><em>Indicatori:</em> now, right now, at the moment, today, this week.</p>",
+    "examples": [
+      "I'm reading a great book.",
+      "We are flying to Paris tomorrow.",
+      "She isn't working today.",
+      "What are you doing right now?"
+    ]
+  },
+  {
+    "id": "past-simple",
+    "title": "Past Simple",
+    "level": "A2",
+    "content_html": "<p>Si usa per azioni <strong>finite nel passato</strong> in un momento preciso (yesterday, last year, in 2010, two days ago).</p><h3>Verbi regolari</h3><p>Si aggiunge <strong>-ed</strong>: work → work<strong>ed</strong>, play → play<strong>ed</strong>, study → stud<strong>ied</strong>.</p><h3>Verbi irregolari</h3><p>Forma da imparare a memoria: go → <strong>went</strong>, have → <strong>had</strong>, see → <strong>saw</strong>, do → <strong>did</strong>, eat → <strong>ate</strong>.</p><h3>Negativa e interrogativa</h3><p>Si usa l'ausiliare <strong>did</strong> (e il verbo torna alla forma base):</p><ul><li>I <strong>didn't</strong> see her.</li><li><strong>Did</strong> you sleep well?</li></ul>",
+    "examples": [
+      "I visited Rome last summer.",
+      "She didn't call me yesterday.",
+      "Did you watch the match?",
+      "We went to the beach two days ago."
+    ]
+  },
+  {
+    "id": "articles",
+    "title": "Articoli: a / an / the",
+    "level": "A1",
+    "content_html": "<p>L'inglese ha due tipi di articolo: <strong>indeterminativo</strong> (a / an) e <strong>determinativo</strong> (the).</p><h3>a / an</h3><ul><li><strong>a</strong> davanti a suono consonantico: <em>a book, a university</em> (suono /j/!)</li><li><strong>an</strong> davanti a suono vocalico: <em>an apple, an hour</em> (h muta!)</li><li>Si usa per qualcosa <strong>non specifico</strong> o nominato per la prima volta.</li></ul><h3>the</h3><p>Si usa per qualcosa di <strong>specifico</strong>, già conosciuto o unico al mondo (the sun, the moon).</p><h3>Articolo zero (niente)</h3><p>Davanti a sostantivi plurali o non numerabili usati in senso generale: <em>I like music. Cats are cute.</em></p>",
+    "examples": [
+      "I saw a dog. The dog was barking.",
+      "She is an engineer.",
+      "The Earth is round.",
+      "I love coffee. (in generale, niente articolo)"
+    ]
+  }
+]

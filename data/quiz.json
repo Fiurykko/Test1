@@ -1,0 +1,133 @@
+[
+  {
+    "question": "She ___ a teacher.",
+    "options": ["am", "is", "are", "be"],
+    "answer": 1,
+    "explanation": "Con la terza persona singolare (he/she/it) il verbo to be al presente è 'is'.",
+    "level": "A1",
+    "week": 1
+  },
+  {
+    "question": "I ___ from Italy.",
+    "options": ["am", "is", "are", "be"],
+    "answer": 0,
+    "explanation": "Con 'I' al presente del verbo to be si usa 'am'.",
+    "level": "A1",
+    "week": 1
+  },
+  {
+    "question": "There ___ three books on the table.",
+    "options": ["is", "am", "are", "be"],
+    "answer": 2,
+    "explanation": "Con un soggetto plurale (three books) si usa 'there are'.",
+    "level": "A1",
+    "week": 1
+  },
+  {
+    "question": "He ___ to school every day.",
+    "options": ["go", "goes", "going", "gone"],
+    "answer": 1,
+    "explanation": "Present simple, terza persona singolare: si aggiunge -es a 'go'.",
+    "level": "A1",
+    "week": 1
+  },
+  {
+    "question": "I ___ an apple. Would you like one?",
+    "options": ["have", "has", "having", "haves"],
+    "answer": 0,
+    "explanation": "Con 'I' al present simple si usa 'have'.",
+    "level": "A1",
+    "week": 1
+  },
+
+  {
+    "question": "I ___ to London last year.",
+    "options": ["go", "went", "gone", "going"],
+    "answer": 1,
+    "explanation": "Past simple irregolare: 'last year' indica passato concluso, quindi 'went'.",
+    "level": "A2",
+    "week": 1
+  },
+  {
+    "question": "Look! It ___ now.",
+    "options": ["rains", "is raining", "rained", "rain"],
+    "answer": 1,
+    "explanation": "'Look!' e 'now' segnalano present continuous: is + verbo-ing.",
+    "level": "A2",
+    "week": 1
+  },
+  {
+    "question": "She has lived in Rome ___ 2010.",
+    "options": ["for", "since", "from", "ago"],
+    "answer": 1,
+    "explanation": "'Since' si usa con un punto preciso nel tempo (2010); 'for' con una durata.",
+    "level": "A2",
+    "week": 1
+  },
+  {
+    "question": "There isn't ___ milk in the fridge.",
+    "options": ["some", "any", "a", "many"],
+    "answer": 1,
+    "explanation": "Nelle frasi negative si usa 'any' con i sostantivi non numerabili.",
+    "level": "A2",
+    "week": 1
+  },
+  {
+    "question": "I ___ go to the dentist tomorrow.",
+    "options": ["have to", "has to", "having to", "had to"],
+    "answer": 0,
+    "explanation": "Con 'I' al presente si usa 'have to' (obbligo).",
+    "level": "A2",
+    "week": 1
+  },
+
+  {
+    "question": "If I ___ rich, I would travel the world.",
+    "options": ["am", "was", "were", "will be"],
+    "answer": 2,
+    "explanation": "Secondo condizionale: if + past simple, con 'were' per tutte le persone (ipotesi irreale).",
+    "level": "B1",
+    "week": 1
+  },
+  {
+    "question": "The book ___ by millions of people.",
+    "options": ["read", "is read", "reads", "reading"],
+    "answer": 1,
+    "explanation": "Forma passiva al presente: to be + participio passato.",
+    "level": "B1",
+    "week": 1
+  },
+  {
+    "question": "I'm not used ___ up so early.",
+    "options": ["to get", "to getting", "get", "getting"],
+    "answer": 1,
+    "explanation": "'To be used to' è seguito dal verbo in -ing.",
+    "level": "B1",
+    "week": 1
+  },
+  {
+    "question": "She told me that she ___ tired.",
+    "options": ["is", "was", "were", "be"],
+    "answer": 1,
+    "explanation": "Discorso indiretto: il presente diventa passato (is → was).",
+    "level": "B1",
+    "week": 1
+  },
+
+  {
+    "question": "Had I known earlier, I ___ you.",
+    "options": ["would help", "would have helped", "will help", "helped"],
+    "answer": 1,
+    "explanation": "Terzo condizionale (rimpianto): if + past perfect, would have + participio passato.",
+    "level": "B2",
+    "week": 1
+  },
+  {
+    "question": "He denied ___ the money.",
+    "options": ["to take", "taking", "take", "took"],
+    "answer": 1,
+    "explanation": "Dopo 'deny' si usa il verbo in -ing.",
+    "level": "B2",
+    "week": 1
+  }
+]
