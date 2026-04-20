@@ -92,7 +92,7 @@ function render() {
   cardArea.querySelectorAll(".speak-btn").forEach(btn => {
     btn.addEventListener("click", (e) => {
       e.stopPropagation();
-      speak(btn.dataset.speak === "example" ? w.example : w.en);
+      btn.dataset.speak === "example" ? speakSentence(w.example) : speakWord(w.en);
     });
   });
   actions.style.display = flipped ? "flex" : "none";
