@@ -16,6 +16,17 @@ Poi apri http://localhost:8000 nel browser.
 
 In alternativa puoi pubblicare il sito gratis con **GitHub Pages**: nelle impostazioni del repository, sezione *Pages*, scegli il branch e la cartella `/` (root).
 
+## Deploy su Vercel
+
+Il progetto include già un `vercel.json` minimale (URL senza estensione `.html`). Per pubblicarlo:
+
+1. Vai su https://vercel.com/new e collega il tuo account GitHub.
+2. Seleziona il repository `Test1`.
+3. Non serve modificare nulla: Vercel riconosce il sito statico, lascia tutti i campi ai valori di default (nessun build command, nessuna output directory).
+4. Clicca **Deploy**.
+
+Ad ogni push su `main` Vercel ridistribuisce automaticamente la nuova versione in pochi secondi.
+
 ## Aggiornamento settimanale
 
 Tutto il contenuto è in `data/`. Per aggiungere materiale ogni settimana, basta modificare i file JSON e ricaricare la pagina.
