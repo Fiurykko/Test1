@@ -71,13 +71,29 @@ function render() {
   cardArea.innerHTML = `
     <div class="flashcard" id="card">
       ${flipped
-        ? `<div class="translation">${w.it}</div><div class="example">"${w.example}"</div><span class="level-badge">${w.level}</span>`
-        : `<div class="word">${w.en}</div><div class="hint">(clicca per vedere la traduzione)</div><span class="level-badge">${w.level}</span>`}
+        ? `<div class="translation">${w.it}</div>
+           <div class="example">
+             "${w.example}"
+             <button class="speak-btn" data-speak="example" title="Ascolta la frase">🔊</button>
+           </div>
+           <span class="level-badge">${w.level}</span>`
+        : `<div class="word">
+             ${w.en}
+             <button class="speak-btn" data-speak="word" title="Ascolta la pronuncia">🔊</button>
+           </div>
+           <div class="hint">(clicca per vedere la traduzione)</div>
+           <span class="level-badge">${w.level}</span>`}
     </div>
   `;
   document.getElementById("card").addEventListener("click", () => {
     flipped = !flipped;
     render();
+  });
+  cardArea.querySelectorAll(".speak-btn").forEach(btn => {
+    btn.addEventListener("click", (e) => {
+      e.stopPropagation();
+      speak(btn.dataset.speak === "example" ? w.example : w.en);
+    });
   });
   actions.style.display = flipped ? "flex" : "none";
 }

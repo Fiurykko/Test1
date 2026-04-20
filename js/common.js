@@ -38,6 +38,27 @@ function renderLevelFilter(container, onChange) {
   });
 }
 
+function speak(text, lang = "en-GB") {
+  if (!("speechSynthesis" in window)) {
+    alert("Il tuo browser non supporta la sintesi vocale.");
+    return;
+  }
+  window.speechSynthesis.cancel();
+  const utter = new SpeechSynthesisUtterance(text);
+  utter.lang = lang;
+  utter.rate = 0.95;
+  const voices = window.speechSynthesis.getVoices();
+  const match = voices.find(v => v.lang === lang) || voices.find(v => v.lang.startsWith("en"));
+  if (match) utter.voice = match;
+  window.speechSynthesis.speak(utter);
+}
+
+// Some browsers load voices asynchronously; trigger a load early.
+if ("speechSynthesis" in window) {
+  window.speechSynthesis.getVoices();
+  window.speechSynthesis.onvoiceschanged = () => window.speechSynthesis.getVoices();
+}
+
 function shuffle(array) {
   const a = array.slice();
   for (let i = a.length - 1; i > 0; i--) {
